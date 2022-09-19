@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/breakingbadapi/static/css/main.009d3098.css",
+    "main.js": "/breakingbadapi/static/js/main.5cb06e5e.js",
+    "static/media/spinner.gif": "/breakingbadapi/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/breakingbadapi/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/breakingbadapi/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/breakingbadapi/index.html",
+    "main.009d3098.css.map": "/breakingbadapi/static/css/main.009d3098.css.map",
+    "main.5cb06e5e.js.map": "/breakingbadapi/static/js/main.5cb06e5e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.009d3098.css",
+    "static/js/main.5cb06e5e.js"
+  ]
+}
